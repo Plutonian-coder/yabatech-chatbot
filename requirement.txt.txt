@@ -1,4 +1,5 @@
-python 
+python
 streamlit
 nltk
+flexible regex pattern
 pandas
