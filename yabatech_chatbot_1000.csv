@@ -1,0 +1,1001 @@
+Pattern,Response
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*(school.*fee|tuition).*,"📘 Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*transcript.*request.*,📘 Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+(bye|goodbye|exit|see you).*,📘 Goodbye! I’m always here if you need more info about Yabatech.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*(school.*fee|tuition).*,"Yabatech school fees range between ₦45,000 and ₦55,000 for full-time ND students. Extra departmental fees may apply."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+^(hi|hello|hey|good morning|good afternoon|good evening).*$,Hello! Welcome to the Yabatech Assistant. Feel free to ask me anything about the school.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*clubs|societies.*,"📘 Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*(course.*materials|e[- ]?learning).*,Course materials are uploaded to the e-learning portal: https://classroom.yabatech.edu.ng. Make sure to use your correct login credentials.
+.*school.*calendar.*,The academic calendar contains all deadlines and is available on the official site under the Students section.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section."
+.*(how are you|what's up|how's it going).*,I'm great and always ready to assist you with Yabatech information.
+.*orientation.*programme.*,"Orientation introduces new students to academic life, regulations, and support services. Attendance is mandatory."
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number. Make sure to use your correct login credentials."
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+(bye|goodbye|exit|see you).*,Goodbye! I’m always here if you need more info about Yabatech.
+.*(hostel|accommodation).*available.*,"Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(how.*apply|application.*process).*,"To apply, visit https://yabatech.edu.ng and follow the admission instructions. You need a valid JAMB registration number."
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*gpa|cgpa.*calculate.*,📘 Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(cut[- ]?off|cutoff).*mark.*,📘 Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*student.*union.*,The Student Union Government (SUG) represents student interests. Elections are held annually.
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*(hostel|accommodation).*available.*,"📘 Yes, Yabatech offers hostel accommodation. Fees range from ₦15,000 to ₦20,000, and spaces are limited."
+.*(how are you|what's up|how's it going).*,📘 I'm great and always ready to assist you with Yabatech information.
+.*(change of course|switch department).*,"After admission, you can apply for a change of course through the Admissions Office, depending on your scores and availability."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*certificate.*collection.*,"To collect your certificate, clear all dues and visit the Exams & Records unit with your ID and evidence of clearance."
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard.
+.*student.*portal.*login.*,Visit https://portal.yabatech.edu.ng and log in using your matric number and password to access your dashboard. Make sure to use your correct login credentials.
+.*clubs|societies.*,"Yabatech has various academic, religious, and cultural clubs you can join. Check your department or SUG office."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*gpa|cgpa.*calculate.*,Yabatech uses a 4.0 CGPA scale. Your GPA is calculated based on your course grades and their credit units.
+.*acceptance.*fee.*,"The acceptance fee for new students is ₦20,000. This is a compulsory non-refundable payment after admission is offered."
+.*transcript.*request.*,Transcript requests can be made online via the Yabatech transcript portal. Processing takes a few days to a week.
+.*exam.*timetable.*,Exam timetables are released by departments and published on the student portal or departmental notice boards.
+.*(cut[- ]?off|cutoff).*mark.*,Yabatech's general UTME cut-off mark is 150. Competitive courses like Mass Comm and Engineering may require higher.
+.*registration.*deadline.*,All course registration deadlines are posted on the student portal. Late registration attracts penalties.
+.*wifi|internet.*,Wi-Fi is available in academic blocks and libraries for registered students with valid login credentials.
+.*result.*check.*,"To check your result, log in to https://portal.yabatech.edu.ng and navigate to the 'Academic Records' section. Make sure to use your correct login credentials."
